@@ -1,5 +1,5 @@
 from tkinter import *
-from quiz_brain2 import QuizBrain
+from quiz_brain import QuizBrain
 from question_model import Question
 from data import TriviaData
 
